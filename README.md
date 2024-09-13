@@ -5,7 +5,6 @@ A web application that allows users to upload MP3 files, select a language, and 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -18,12 +17,6 @@ A web application that allows users to upload MP3 files, select a language, and 
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
-
-## Demo
-
-![Application Demo](demo_screenshot.png)
-
-*Note: Include a screenshot or GIF demonstrating the application.*
 
 ## Features
 
